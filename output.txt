@@ -1,0 +1,6 @@
+PROCESS SCHEDULE EVENTS SUMMARY:
+Total elapsed time (ms): 12359
+Number of completed process: 5
+Total number of SSD access: 90
+Average number of busy CORE: 0.4628
+SSD utilization: 0.0028
